@@ -1,6 +1,6 @@
 import winsound
 
-print("Escala de DO")
+print("Escala de Do")
 winsound.Beep(261,1000)
 winsound.Beep(293,1000)
 winsound.Beep(329,1000)
