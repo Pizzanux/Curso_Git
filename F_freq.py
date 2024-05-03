@@ -1,4 +1,4 @@
 import winsound
 
-print("Nota Fa bien")
+print("Nota Fa")
 winsound.Beep(349,1000)
